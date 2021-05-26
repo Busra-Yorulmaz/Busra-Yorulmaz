@@ -2,3 +2,6 @@
 
 - 🌱 I’m currently learning JAVA / REACT  and PHP
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Busra-Yorulmaz)](https://github.com/Busra-Yorulmaz/github-readme-stats)
+
+

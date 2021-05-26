@@ -1,4 +1,5 @@
 ### Hi there, I'm Büşra Yorulmaz 👋
+I am a second year student of Computer Engineering at Kahramanmaraş Sütcü İmam University.
 
 - 🌱 I’m currently learning JAVA / REACT  and PHP
 
